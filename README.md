@@ -45,10 +45,7 @@
 ### Development:
 <code><img title="Visual Studio Code" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" height="42px"/></code>
 <code><img title="Vite" alt="Vite" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" height="42px"/></code>
-<code><img title="Webpack" alt="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="42px"/></code>
 <code><img title="NPM" alt="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" height="42px"/></code>
-<code><img title="PNPM" alt="PNPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original.svg" height="42px"/></code>
-<code><img title="Tubropack" alt="Trubopack" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWrOMUbcxvf82hoLZdpFd5nHGJZ9Lu3hSIow" height="42px"/></code>
 <code><img title="Postman" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="42px"/></code>
 <code><img title="Prettier" alt="Prettier" src="https://raw.githubusercontent.com/github/explore/main/topics/prettier/prettier.png" height="42px"/></code>
 <code><img title="ESLint" alt="ESLint" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="42px"/></code>
