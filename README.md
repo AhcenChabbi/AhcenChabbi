@@ -21,7 +21,6 @@
 ### Programming Languages:
  <code><img title="TypeScript" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="42px"/></code>
  <code><img title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42px"/></code>
-  <code><img title="C" alt="C" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c_256x256.png" height="42px"/></code>
   
 ### Frontend:
 <code><img title="Next.js" alt="Nextjs" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" height="42px"/></code>
