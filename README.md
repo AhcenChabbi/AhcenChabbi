@@ -1,6 +1,6 @@
 
 ## Hi 👋, I'm Ahcen Chabbi
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahcen-chabbi) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ma_chabbi@esi.dz) [![Portfolio](https://img.shields.io/badge/Portfolio-0A0938?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahcen-chabbi) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ma_chabbi@esi.dz)
 
 
 <p>
@@ -16,6 +16,9 @@
 - 💼 Available for freelance work and collaborations
 - 🌱 Constantly learning and building projects to sharpen my skills
 
+## 🌐 Portfolio
+
+- 🔗 [Visit my portfolio](https://ahcenchabbi.vercel.app/) to explore my projects and case studies.
 
 ## 🧑‍💻 My tech stack
 
