@@ -3,14 +3,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahcen-chabbi) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ma_chabbi@esi.dz)
 
 <p>
-  🚀 Next JS Developer · 💼 Freelancer
+  🚀 Web Developer · 💼 Freelancer
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎯 I'm a frontend developer specialized in building modern web apps with **Next.js** and **TypeScript**
+- 🎯 I'm a web developer specialized in building modern web apps with **Next.js** and **TypeScript**
 - 🧠 Passionate about performance, accessibility, and great UI/UX
 - 💼 Available for freelance work and collaborations
 - 🌱 Constantly learning and building projects to sharpen my skills
